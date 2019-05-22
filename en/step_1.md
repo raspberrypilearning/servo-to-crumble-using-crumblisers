@@ -14,7 +14,7 @@ Plug the servo into the Crumbliser making sure that the negative wire (black or 
 
 ![Crumbliser connected to a servo plug](images/crumbliser_to_servo_plug.png)
 
-Next, connect a crocodile clip between the positive terminal (+) of the Crumbliser to the positive terminal (+) of the Crumble, and from the negative terminal (-) of the Crumbliser to the negative terminal (-) of the Crumble.
+Next, connect a crocodile clip between the positive terminal (+) of the Crumbliser and the positive terminal (+) of the Crumble, and from the negative terminal (-) of the Crumbliser to the negative terminal (-) of the Crumble.
 
 ![Crumbliser connected to Crumble +ve and -ve](images/crumbliser_to_crumble_power.png)
 
