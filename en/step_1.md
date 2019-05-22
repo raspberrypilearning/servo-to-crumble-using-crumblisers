@@ -1,58 +1,27 @@
-## Introduction
+## Connecting a servo to Crumble using a Crumbliser
 
-Add project description here. What will learners be making?
+Crumblisers are small, simple circuit boards made by the makers of the Crumble, Redfern Electronics, to help make electrical components easy to connect to a Crumble using crocodile clips. The idea is to convert connectors like the standard servo connector and small jumper pins to crocodile friendly connections.
 
-### What you will make
+Crumblisers can be bought without any male pins or female sockets but Redfern Electronics are also happy to provide you with pre-soldered pins ready to take a servo connector.
 
---- no-print ---
-Add instructions for using the embedded content here.
+![Crumblisers with and without soldered pins](images/crumblisers.png)
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+Crumblisers are cheap and are a great adapter solution for connecting between servo plugs and the Crumble's crocodile friendly terminals.
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+--- task ---
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+Plug the servo into the Crumbliser making sure that the negative wire (black or brown) connects with the terminal marked negative (-) on the Crumbliser. The signal wire (usually orange or white) should be lined up with the terminal marked 'S' for signal.
 
-+ Describe hardware here
+![Crumbliser connected to a servo plug](images/crumbliser_to_servo_plug.png)
 
-### Software
+Next, connect a crocodile clip between the positive terminal (+) of the Crumbliser to the positive terminal (+) of the Crumble, and from the negative terminal (-) of the Crumbliser to the negative terminal (-) of the Crumble.
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+![Crumbliser connected to Crumble +ve and -ve](images/crumbliser_to_crumble_power.png)
 
-### Downloads
+Finally, choose which terminal, A, B, C or D, of the Crumble you want to use to control the servo. Connect a crocodile clip between that terminal and the 'S' terminal of the Crumbliser.
 
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
+![Crumbliser connected to a servo plug](images/crumbliser_to_crumble_signal.png)
 
---- /collapse ---
+--- /task ---
 
---- collapse ---
----
-title: What you will learn
----
-
-+ Two or three learning objectives
-+ ...should go here
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
-
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
-
---- /collapse ---
+That's it. You're ready to start coding.
