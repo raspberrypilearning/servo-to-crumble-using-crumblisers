@@ -14,7 +14,7 @@ Next, connect a crocodile clip between the positive terminal (+) of the Crumblis
 
 ![Crumbliser connected to Crumble +ve & -ve](images/crumbliser_to_crumble_power.png)
 
-Finally, choose which terminal - A, B, C or D - of the Crumble you want to use to control the servo. Connect a crocodile clip between that terminal and the 'S' terminal of the Crumbliser.
+Finally, choose which terminal, A, B, C or D, of the Crumble you want to use to control the servo. Connect a crocodile clip between that terminal and the 'S' terminal of the Crumbliser.
 
 ![Crumbliser connected to a servo plug](images/crumbliser_to_crumble_signal.png)
 
