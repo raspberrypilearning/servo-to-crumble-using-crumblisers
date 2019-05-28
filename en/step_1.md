@@ -18,4 +18,4 @@ Finally, choose which terminal, A, B, C or D, of the Crumble you want to use to 
 
 ![Crumbliser connected to a servo plug](images/crumbliser_to_crumble_signal.png)
 
-That's it. You're ready to start coding.
+That's it. You're ready to start coding!
